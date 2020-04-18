@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nu3B5NtshfY4WDvLdmEkHHyocB38/Y6yxscIwGUaENGsMhz29e79bWp58Cl0EJ85yPWYZ9jQ+mw9dNz/7Js+bg==",
+  "dgSpecHash": "ftYJl5Wo2ZgIdfI2kBwdv4tjQX9a7haRV70IZ5HODkMH8W81B1VplWntmG8lmC5n3EhEQQ3pug+2ciQduIMFkw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Exoil\\source\\repos\\State\\State\\State.csproj",
+  "projectFilePath": "C:\\Users\\Exoil\\Resources\\Net_Core\\State\\State\\State.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

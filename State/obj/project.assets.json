@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Exoil\\source\\repos\\State\\State\\State.csproj",
+      "projectUniqueName": "C:\\Users\\Exoil\\Resources\\Net_Core\\State\\State\\State.csproj",
       "projectName": "State",
-      "projectPath": "C:\\Users\\Exoil\\source\\repos\\State\\State\\State.csproj",
+      "projectPath": "C:\\Users\\Exoil\\Resources\\Net_Core\\State\\State\\State.csproj",
       "packagesPath": "C:\\Users\\Exoil\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Exoil\\source\\repos\\State\\State\\obj\\",
+      "outputPath": "C:\\Users\\Exoil\\Resources\\Net_Core\\State\\State\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"

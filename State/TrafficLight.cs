@@ -18,7 +18,7 @@ namespace State
 
         public void TrunLight()
         {
-            currentState.ChangeLight();
+            currentState.ChangeLight(this);
        
 
         }

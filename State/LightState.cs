@@ -8,7 +8,7 @@ namespace State
 {
     public abstract class LightState
     {
-        public abstract void ChangeLight();
+        public abstract void ChangeLight(TrafficLight trafficLight);
 
 
         public bool Tick()

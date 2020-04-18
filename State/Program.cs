@@ -7,18 +7,15 @@ namespace State
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("State example");
+            Console.WriteLine("State example, starts from red light");
 
             var trafficLight = new TrafficLight();
             trafficLight.SetState(new RedLight());
             trafficLight.TrunLight();
-            trafficLight.SetState(new YellowLight());
             trafficLight.TrunLight();
-            trafficLight.SetState(new GreenLight());
             trafficLight.TrunLight();
-            trafficLight.SetState(new RedLight());
 
-            Console.WriteLine("End");
+            Console.WriteLine("End, you can go");
             Console.ReadLine();
         }
     }
